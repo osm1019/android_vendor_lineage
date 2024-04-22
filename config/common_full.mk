@@ -9,8 +9,10 @@ $(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
 
 # Apps
 PRODUCT_PACKAGES += \
+       OmniJaws \
+
    # Eleven \
-   # Etar \
+      # Etar \
    # Profiles \
    # Recorder \
    # Seedvault
